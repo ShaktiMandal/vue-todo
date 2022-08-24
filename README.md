@@ -1,6 +1,8 @@
 # todo-pinia
 
-This template should help get you started developing with Vue 3 in Vite.
+Created a basic todo app using vue3. 
+Add pinia for store management.
+Validated a feature - can update the store object outside store action.
 
 ## Recommended IDE Setup
 
